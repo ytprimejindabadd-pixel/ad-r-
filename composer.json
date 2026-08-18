@@ -1,0 +1,15 @@
+{
+  "name": "bronx/rc-proxy",
+  "description": "BRONX RC Proxy API - 91Wheels",
+  "type": "project",
+  "version": "3.0.0",
+  "require": {
+    "php": ">=7.4",
+    "ext-curl": "*",
+    "ext-json": "*",
+    "ext-mbstring": "*"
+  },
+  "config": {
+    "optimize-autoloader": true
+  }
+}
